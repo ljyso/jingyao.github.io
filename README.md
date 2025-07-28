@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td><img src="./wx.png" width="200"/></td>
-    <td><img src="./zfb.png" width="200"/></td>
+    <td><img src="./zfb.jpg" width="200"/></td>
   </tr>
 </table>
 
